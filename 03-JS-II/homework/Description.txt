@@ -1,0 +1,19 @@
+* `for`
+
+for es un bucle que itera y que ayuda facilitando el trabajo de andar repitiendo muchas lineas de codigo.
+
+
+* `&&`
+
+&&, and es uno de los operadores logicos programables,
+unas de mis formas de recordar es por los simbolos matematicos, ya que este se comporta como un por "*". Devuelve true cuando las dos expresiones son verdaderas, y false cuando ninguna o solo una es verdadera.
+
+
+`||`
+
+||, 'or' es otro operador lógico, tambien lo recuerdo por el simbolo matematico de suma '+'. En este caso si solo una sola expresion es verdadera me devuelve un true, y si las dos expresiones son incorrectas me devuelve con un false.
+
+
+`!`
+
+!, 'not' este operador lógico cumple la función de devolver lo opuesto a la expresion, por ejemplo si tengo una expresion verdadera me deberia de dar un true, pero si pongo el not me devolveria un false.
