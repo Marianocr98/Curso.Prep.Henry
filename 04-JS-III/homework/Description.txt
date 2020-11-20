@@ -1,0 +1,3 @@
+* Arrays
+
+Array o arreglo, es una herramienta en la que nos facilita lineas de codigo, por ejemplo si tengo que almacenar nombres de 20 personas, hacer 20 variables diferentes seria algo dificil de recordar, en cambio con array puedo crear 1 sola variable y almacenar los 20 nombres  de las personas dentro de corchetes [] tambien me ahorraria escribir mas lineas de codigo. Se pueden almacenar tanto string como numeros, booleanos y hasta trabajar con condiciones e iteradores.
