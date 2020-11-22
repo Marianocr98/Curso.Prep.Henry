@@ -4,6 +4,7 @@ objetos, es parecido al array pero no iguales, se inician con llaves {} y dentro
 
 
  * Propiedades
+ 
 
  las propiedades es el contenedor de un valor, podemos eliminar propiedades usando la palabra delete, si se elimina una propiedad se eliminar todo lo almacenado en su interior.
 
