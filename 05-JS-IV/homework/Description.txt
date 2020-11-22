@@ -1,0 +1,25 @@
+* Objetos
+
+objetos, es parecido al array pero no iguales, se inician con llaves {} y dentro de esas llaves podemos palabras claves con sus valores, las claves o key no se pueden repetir, pero los valores o value en cambio si, cuando definimos una palabra clave hay que poner dos puntos : para poder darle un valor, cada value termina con su coma ','. Dentro de los objetos podemos usar: string, numeros, booleanos, funciones, objetos, arreglos. 
+
+
+ * Propiedades
+
+ las propiedades es el contenedor de un valor, podemos eliminar propiedades usando la palabra delete, si se elimina una propiedad se eliminar todo lo almacenado en su interior.
+
+
+ * Métodos
+
+ En los objetos los metodos se le llaman a las funciones, podemos convocar a los metodos con el nombre del objeto seguido un punto y la palabra clave de donde se encuentra ese metodo y terminando con un parentesis ().
+
+
+ * Bucle `for…in`
+
+ for in, es un bucle para iterar sobre los objetos y motrar cada paralabra clave por consola, se usa for in porque el bucle estandar de for no funciona en los objetos. Entre parentesis se declara una variable, la palabra clave in y el nombre del objeto.
+
+
+ * Notación de puntos vs notación de corchetes
+
+
+ La notación de puntos, sirve para acceder rapidamente a los valores dentro de los objetos pero su desventaja es que no puedo usar la notación de puntos cuando una propiedad o key esta todo separado ejemplo:'Nombre de la persona'.
+ En este caso podemos usar notación de corchetes para acceder a esos valores.
