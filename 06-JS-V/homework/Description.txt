@@ -1,0 +1,8 @@
+* `prototype`
+
+prototype, sirve para no crear muchos objetos de clases con sus metodos o funciones, con prototype podemos usar un metodo para muchos objetos de clase. 
+
+
+* _Constructors_ (de Clases)
+
+constructors o class, es similar a los objetos normales, pero sus ventajas son que podemos usar class para muchos objetos que tengan las mismas propiedades y metodos.
