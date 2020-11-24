@@ -1,0 +1,3 @@
+* Funciones Callback
+
+Las funcionces Callback, son funciones que se pasan  como argumento a otra función, con esto podremos simplificar codigo por ejemplo un for para que itere por pantalla podria usar callback.
