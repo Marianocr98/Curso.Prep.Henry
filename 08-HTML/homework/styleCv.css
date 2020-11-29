@@ -1,0 +1,196 @@
+*{
+	margin: 0;
+}
+
+body{
+	background-color: #fff;
+}
+
+.container-body{
+	border: 1px solid black;
+	padding: 5px;
+	margin: 10px auto;
+	width: 1100px;
+	background-color: #f8fbf5;
+	box-shadow: 4px 4px 10px black;
+	position: relative;
+}
+
+h1{
+	font-size: 60px;
+	display: flex;
+	justify-content: center;
+	margin: 30px;
+}
+
+.container__section-Sub{	
+	width: 550px;
+	height: 300px;
+	font-size: 25px;
+	margin-top: 55px;
+	margin-left: 15px;
+}
+
+.container__div-Sub{
+	display: flex;
+	flex-direction: row;
+	margin: 10px;
+}
+
+.container__Sub-h4{
+	padding: 5px;
+	width: 110px;
+}
+
+.container__Sub-p{
+	padding: 5px;
+	margin-left: 5px;
+}
+
+
+.container__section-perfil{
+	font-size: 20px;
+	width: 1050px;
+	height: 130px;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+
+.container__perfil-h3{
+	margin: 5px;
+}
+
+.container__perfil-p{
+	margin-left: 5px;
+}
+
+.container__section-lab{
+	font-size: 20px;
+	width: 1050px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+
+.container__lab-h3{
+	margin: 5px;
+}
+
+.container__lab-p{
+	margin-left: 5px;
+}
+
+.container__section-hobb{
+	font-size: 20px;
+	width: 1050px;
+	height: 110px;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+
+.container__hobb-h3{
+	margin: 5px;
+}
+
+.container__hobb-p{
+	margin-left: 5px;
+}
+
+.container__section-expec{
+	font-size: 20px;
+	width: 1050px;
+	height: 220px;
+	margin-top: 12px;
+	margin-left: 25px;
+}
+
+.container__expec-h3{
+	margin: 5px;
+}
+
+.container__expec-p{
+	margin-left: 5px;
+}
+
+
+
+
+
+
+#container__edu_habi{
+	width: 1050px;
+	margin-top: 15px;
+	margin-left: 25px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.container__section-edu{
+	font-size: 20px;
+	margin: 25px;
+	width: 400px;
+	height: 310px;
+}
+
+.container__edu-h3{
+	width: 250px;
+	margin-top: 8px;
+	margin-left: 65px;
+	text-align: center;
+}
+
+.container__edu-ul{
+	width: 210px;
+	margin-top: 12px;
+	margin-left: 50px;
+	text-align: center;
+	list-style-type: none;
+}
+
+
+
+
+
+.container__section-habi{
+	font-size: 20px;
+	margin: 25px;
+	width: 400px;
+}
+
+.container__habi-h3{
+	width: 250px;
+	margin-top: 8px;
+	margin-left: 65px;
+	text-align: center;
+}
+
+.container__habi-ul{
+	width: 210px;
+	margin-top: 12px;
+	margin-left: 50px;
+	text-align: center;
+	list-style-type: none;
+
+}
+
+img{
+	width: 400px;
+	position: absolute;
+	top: 165px;
+	right: 45px;
+}
+
+.container__footer-hr{
+	margin-top: 15px;
+	margin-bottom: 20px;
+
+}
+
+.container-hr{
+	width: 500px;
+	position: relative;
+	margin: auto;
+}
